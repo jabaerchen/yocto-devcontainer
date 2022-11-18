@@ -1,5 +1,5 @@
   
-FROM ubuntu:focal
+FROM ubuntu:kinetic
 
 COPY install-packages /usr/bin
 
